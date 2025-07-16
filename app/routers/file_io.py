@@ -44,7 +44,6 @@ async def upload_media(
         if not sql_response.success:
             return sql_response.model_dump(exclude_none=True)
 
-        # Yet to store integrate the extracted entities flow here
         ner_response = ner_service.run_ner(transcript)
         if not ner_response.success:
             return ner_response.model_dump(exclude_none=True)
