@@ -1,0 +1,64 @@
+python
+java
+c++
+javascript
+typescript
+html
+css
+sql
+nosql
+mongodb
+postgresql
+mysql
+excel
+power bi
+tableau
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+keras
+flask
+django
+fastapi
+linux
+docker
+kubernetes
+aws
+azure
+gcp
+spark
+hadoop
+git
+jira
+jenkins
+rest api
+graphql
+matplotlib
+seaborn
+nlp
+machine learning
+deep learning
+data analysis
+data visualization
+data engineering
+etl
+bash
+shell scripting
+Node.js
+Go
+Spring Boot
+Express.js
+Helm
+EC2
+S3
+Lambda
+API Gateway
+EKS
+CI/CD
+GitLab CI
+React
+Next.js
+Tailwind CSS
+Material UI
