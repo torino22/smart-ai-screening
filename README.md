@@ -83,7 +83,7 @@ An AI-powered interview assistant that transcribes candidate audio, extracts key
   │   │   ├── __init__.py
   │   │   ├── file_io.py
   │   │   ├── llm_service.py
-  │   │   ├── nsr.py
+  │   │   ├── ner.py
   │   │   ├── sql.py
   │   │   ├── streamlit_ui.py
   │   │   └── vector.py
