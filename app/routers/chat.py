@@ -83,9 +83,7 @@ async def chat(
 
 
 
-        # YET TO BE RETURNED AS VOICE (text to voice flow integration need to be done)
 
-        # return llm_response.model_dump(exclude_none=True)
 
 
 
